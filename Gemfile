@@ -9,6 +9,8 @@ gem 'rails', '~> 6.1.4'
 # adding bootstrap 
 gem 'bootstrap-sass','3.4.1'
 
+#for testing purpose
+gem 'rails-controller-testing'
 gem 'net-smtp'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
