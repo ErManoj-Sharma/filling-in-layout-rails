@@ -9,6 +9,9 @@ gem 'rails', '~> 6.1.4'
 # adding bootstrap 
 gem 'bootstrap-sass','3.4.1'
 
+#for password hashing
+gem 'bcrypt','3.1.13'
+
 #for testing purpose
 gem 'rails-controller-testing'
 gem 'net-smtp'
